@@ -1,0 +1,13 @@
+asgiref
+backports.zoneinfo
+Django
+psycopg2-binary
+sqlparse
+tzdata
+django-crispy-forms
+crispy-bootstrap5
+django-allauth
+django-extensions
+pillow
+django-bootstrap-datepicker-plus
+whitenoise
